@@ -1,10 +1,11 @@
-2015-08-04 12:54:06,171 WARN  [SoapUI] Missing folder [G:\SoapUIPOC\.\ext] for external libraries
-2015-08-04 12:54:06,371 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Admin\soapui-settings.xml]
-2015-08-04 12:54:07,049 INFO  [WsdlProject] Loaded project from [file:/G:/SoapUIPOC/src/test/java/com/macys/soapui/WS-Project-soapui-project.xml]
-2015-08-04 12:54:07,052 WARN  [WsdlProject] Project 'WS Project' is from a newer version (5.0.0) of SoapUI than this (4.6.4) and parts of it may be incompatible or incorrect. Saving this project with this version of SoapUI may cause it to function differently.
-2015-08-04 12:54:07,232 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [WS Project]
-2015-08-04 12:54:07,234 INFO  [SoapUITestCaseRunner] Running Project [WS Project], runType = SEQUENTIAL
-2015-08-04 12:54:07,256 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [ConversionRate TestCase]
-2015-08-04 12:54:07,263 INFO  [SoapUITestCaseRunner] running step [ConversionRate]
-2015-08-04 12:54:08,960 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [ConversionRate TestCase], time taken: 1684ms, status: FINISHED
-2015-08-04 12:54:08,964 INFO  [SoapUITestCaseRunner] Project [WS Project] finished with status [FINISHED] in 1724ms
+2015-08-04 15:15:45,703 WARN  [SoapUI] Missing folder [G:\SoapUIPOC\.\ext] for external libraries
+2015-08-04 15:15:45,888 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Admin\soapui-settings.xml]
+2015-08-04 15:15:46,557 INFO  [WsdlProject] Loaded project from [file:/G:/SoapUIPOC/src/test/java/com/macys/soapui/WS-Project-soapui-project.xml]
+2015-08-04 15:15:46,560 WARN  [WsdlProject] Project 'WS Project' is from a newer version (5.0.0) of SoapUI than this (4.6.4) and parts of it may be incompatible or incorrect. Saving this project with this version of SoapUI may cause it to function differently.
+2015-08-04 15:15:46,771 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [WS Project]
+2015-08-04 15:15:46,774 INFO  [SoapUITestCaseRunner] Running Project [WS Project], runType = SEQUENTIAL
+2015-08-04 15:15:46,796 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [ConversionRate TestCase]
+2015-08-04 15:15:46,810 INFO  [SoapUITestCaseRunner] running step [ConversionRate]
+2015-08-04 15:15:47,294 INFO  [SoapUITestCaseRunner] Assertion [Response SLA] has status VALID
+2015-08-04 15:15:47,300 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [ConversionRate TestCase], time taken: 474ms, status: FINISHED
+2015-08-04 15:15:47,303 INFO  [SoapUITestCaseRunner] Project [WS Project] finished with status [FINISHED] in 524ms
