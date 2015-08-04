@@ -1,0 +1,10 @@
+2015-08-04 11:56:19,774 WARN  [SoapUI] Missing folder [G:\SoapUIPOC\.\ext] for external libraries
+2015-08-04 11:56:19,972 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Admin\soapui-settings.xml]
+2015-08-04 11:56:20,801 INFO  [WsdlProject] Loaded project from [file:/G:/SoapUIPOC/src/test/java/com/macys/soapui/Web-Service-Project-soapui-project.xml]
+2015-08-04 11:56:20,803 WARN  [WsdlProject] Project 'Web Service Project' is from a newer version (5.0.0) of SoapUI than this (4.6.4) and parts of it may be incompatible or incorrect. Saving this project with this version of SoapUI may cause it to function differently.
+2015-08-04 11:56:22,157 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Web Service Project]
+2015-08-04 11:56:22,162 INFO  [SoapUITestCaseRunner] Running Project [Web Service Project], runType = SEQUENTIAL
+2015-08-04 11:56:22,271 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [ConversionRate TestCase]
+2015-08-04 11:56:22,313 INFO  [SoapUITestCaseRunner] running step [ConversionRate]
+2015-08-04 11:56:24,441 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [ConversionRate TestCase], time taken: 2045ms, status: FINISHED
+2015-08-04 11:56:24,444 INFO  [SoapUITestCaseRunner] Project [Web Service Project] finished with status [FINISHED] in 2271ms
