@@ -35,7 +35,7 @@
                </execution>
             </executions>   
         <configuration>
-          <projectFile>src/test/java/com/macys/soapui/Web-Service-Project-soapui-project.xml</projectFile>
+          <projectFile>src/test/java/com/macys/soapui/WS-Project-soapui-project.xml</projectFile>
           <outputFolder>${basedir}\target\surefire-reports</outputFolder>
           <junitReport>true</junitReport>
           <exportwAll>false</exportwAll>
